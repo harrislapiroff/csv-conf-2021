@@ -10,7 +10,7 @@ h1, h2, h3, h4 {
   color: #000;
 }
 
-.slide--bordered {
+.slide--bordered, .video {
   border-bottom: 1px solid #CCC;
 }
 
